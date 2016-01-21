@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartTracker</string>
+    <string name="button_start">Start new Tracking</string>
+    <string name="button_sas">File queue</string>
+    <string name="action_exit">Exit App</string>
+    <string name="confirm_exit_message">Exit Application?</string>
+    <string name="confirm_ok">Yes</string>
+    <string name="confirm_cancel">No</string>
+    <string name="confirm_cancel_thx">No, thanks</string>
+    <string name="choose_tracking">Tracking type</string>
+    <string name="confirm_start_ok">Let\'s go!</string>
+    <string name="title_activity_track">Tracking</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="confirm_cancel_message">Cancel current tracking?</string>
+    <string name="confirm_finish_message">Finish current tracking?</string>
+    <string name="sdcard_not_readable">Unable to access external storage, check it\'s mounted and readable.</string>
+    <string name="sdcard_not_writable">Unable to write on external storage, check it\'s mounted and writable.</string>
+    <string name="network_not_available">Unable to connect, check network connectivity.</string>
+    <string name="ftp_upload_ok">File uploaded</string>
+    <string name="ftp_connection_refused">FTP Server refused connection</string>
+    <string name="ftp_bad_credentials">Invalid FTP credentials</string>
+    <string name="button_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="label_interval">Interval (ms)</string>
+    <string name="label_ftp_server">FTP Server</string>
+    <string name="label_login">Login</string>
+    <string name="label_password">Password</string>
+    <string name="label_ftp_dir">Remote directory</string>
+    <string name="action_save">Save</string>
+    <string name="settings_saved">Settings saved</string>
+    <string name="bad_ftp_parameters">Check FTP parameters, at least one is null</string>
+    <string name="tracking_mtb">MTB</string>
+    <string name="tracking_trekking">Trekking</string>
+    <string name="tracking_running">Running</string>
+    <string name="choose_google_account">Select Google account</string>
+    <string name="label_script_integration">Integration script URL</string>
+    <string name="label_http_auth">HTTP Auth</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_not_available">GPS disabled, please enable it before continuing.</string>
+    <string name="label_auto_load">Automatic load</string>
+    <string name="title_activity_queue">File queue</string>
+    <string name="title_activity_file_detail">File Detail</string>
+    <string name="label_size">Size</string>
+    <string name="label_date">Date</string>
+    <string name="action_delete">Delete</string>
+    <string name="file_delete_ok">File successfully deleted</string>
+    <string name="action_upload">Upload</string>
+</resources>

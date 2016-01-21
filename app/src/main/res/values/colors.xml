@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Material Colors-->
+    <color name="MaterialLime">#CDDC39</color>
+    <color name="MaterialPurple">#9C27B0</color>
+    <color name="MaterialLightBlue">#03A9F4</color>    
+</resources>
